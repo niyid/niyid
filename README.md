@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Kotlin and Blockchain technologies
 - 💞️ I’m looking to collaborate on open-source frameworks that support p2p communication.
 - 📫 I can be reached at neeyeed@gmail.com
-- Monero: 4A9YEHAGA4ohhJRbgyqGsH4tqZzWM9Qnq2qvpxoULMjcDxKS3b2T7GRGNvYjCTuMpk9ZTGp5PMGUUjUpYDR1sEhVDm6o9tK
+- Monero: 
 
 <!---
 niyid/niyid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
