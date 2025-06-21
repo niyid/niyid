@@ -5,7 +5,7 @@
 - 📫 I can be reached at neeyeed@gmail.com  
 - Monero:  88Ae5wwozjnjmhXRN987HXUgNZ8J8MEKBZf8gsxsMHj39HPHjCoirxZFy1UWuNSE36i3AB8ppqMAnNHiskbaut41AqGskaw
 
-<img src="./monero_wallet.png" alt="Monero Wallet" width="200" height="200">
+<img src="./monero_wallet.png" alt="Monero Wallet" width="300" height="300">
 
 <!---
 niyid/niyid is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.  
